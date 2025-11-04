@@ -2,7 +2,6 @@
 JustIT Bootcamp Projects 2025
 
 # Week 1 - EXCEL
-(I lost my workbook)
 - However what i did was learning about EXCEL and how it works by creating tables and different types of charts and pivot tables. Also using formulas and mathematic lines to get caluculations to get data from a table of data.
 
 <img width="875" height="475" alt="Screenshot 2025-11-04 at 10 10 47" src="https://github.com/user-attachments/assets/fb4c800e-59fa-43bc-9d39-60cf3c364aff" />
@@ -10,6 +9,8 @@ JustIT Bootcamp Projects 2025
 <img width="504" height="279" alt="Screenshot 2025-11-04 at 10 13 03" src="https://github.com/user-attachments/assets/e49c32f1-53bd-45b6-8ced-5221102dde2d" />
 
 <img width="1432" height="787" alt="Screenshot 2025-11-04 at 10 14 40" src="https://github.com/user-attachments/assets/471efd0c-fff4-454e-91fe-625121bb3d01" />
+
+Workbook - Mohammed Ahmed DataTechWorkbook week 1
 
 # Week 2 - Tableau
 - What i did on tableau was also looking at data, transfering a set of data and putting it in tableau and generating world map and looking at each type of data.
