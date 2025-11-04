@@ -7,6 +7,10 @@ JustIT bootcamp projects 2025
 
 <img width="875" height="475" alt="Screenshot 2025-11-04 at 10 10 47" src="https://github.com/user-attachments/assets/fb4c800e-59fa-43bc-9d39-60cf3c364aff" />
 
+<img width="504" height="279" alt="Screenshot 2025-11-04 at 10 13 03" src="https://github.com/user-attachments/assets/e49c32f1-53bd-45b6-8ced-5221102dde2d" />
+
+<img width="1432" height="787" alt="Screenshot 2025-11-04 at 10 14 40" src="https://github.com/user-attachments/assets/471efd0c-fff4-454e-91fe-625121bb3d01" />
+
 # Week 2 - Tableau
 
 [Template_YourName_DataTechWorkbook-2.md](https://github.com/user-attachments/files/23306311/Template_YourName_DataTechWorkbook-2.md)
