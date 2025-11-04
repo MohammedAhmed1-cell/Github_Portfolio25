@@ -1,7 +1,7 @@
 # Github Portfolio 2025
 JustIT Bootcamp Projects 2025
 
-# Week 1 - EXCEL
+# Week 1 - Excel
 - However what i did was learning about EXCEL and how it works by creating tables and different types of charts and pivot tables. Also using formulas and mathematic lines to get caluculations to get data from a table of data.
 
 <img width="875" height="475" alt="Screenshot 2025-11-04 at 10 10 47" src="https://github.com/user-attachments/assets/fb4c800e-59fa-43bc-9d39-60cf3c364aff" />
