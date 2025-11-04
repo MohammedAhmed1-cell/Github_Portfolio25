@@ -1,0 +1,518 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#**Code for checking python version**"
+      ],
+      "metadata": {
+        "id": "Lq422ds3MplW"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "qbjxEMNhF58u",
+        "outputId": "3e9eecfa-22c9-40dc-e771-614ee56fc107"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Python 3.12.12\n"
+          ]
+        }
+      ],
+      "source": [
+        "!python --version"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#**Printing hello world**"
+      ],
+      "metadata": {
+        "id": "DqcAQGw4M5PH"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Double quotes\n",
+        "print(\"Hello World!\")\n",
+        "\n",
+        "# Single quotes\n",
+        "print('Hello World!') #Both types of quote marks are valid but make sure you stay consitent with one type"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "RfZLkKuDM7kG",
+        "outputId": "0b9e468b-7e1c-49c9-ae6a-2dd66e1e84be"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello World!\n",
+            "Hello World!\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#**Data types in Python**"
+      ],
+      "metadata": {
+        "id": "TgeRyce4XtCS"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"String\") # A string is any text between 2 quotes\n",
+        "print(11) # An integer is a whole number\n",
+        "print(1.5) # A float (floating point) a number to decimals places\n",
+        "print(True) # A boolean is a True or False value  - Always with a capital T or F\n",
+        "\n",
+        "# Be mindful you may encounter numeric values in quotes which are technically considered strings\n",
+        "print(100)\n",
+        "print(\"100\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "OkPN_fInXu9g",
+        "outputId": "13d2bc6c-a701-481a-d49a-99928d732bcc"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "String\n",
+            "11\n",
+            "1.5\n",
+            "True\n",
+            "100\n",
+            "100\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#**Escape Characters**"
+      ],
+      "metadata": {
+        "id": "8mr6itzGbOw7"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# New line escape character example:\n",
+        "print(\"The itsy bitsy spider \\nclibmed up the water spout\")\n",
+        "print()\n",
+        "print(\"Down came the rain \\nand washed the spider out\")\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "dOkg8qaQbTk5",
+        "outputId": "3ace0ab3-b83d-413f-9918-0ebb415347f4"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "The itsy bitsy spider \n",
+            "clibmed up the water spout\n",
+            "\n",
+            "down came the rain \n",
+            "and washed the spider out\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Printing multiple arguments**"
+      ],
+      "metadata": {
+        "id": "aIpq5KkRh_Rp"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Seperating arguments\n",
+        "print(\"The itsy bitsy spider\" , \"climbed up\" , \"the waterspout\")\n",
+        "\n",
+        "print()\n",
+        "\n",
+        "#Concatenation\n",
+        "print(\"The itsy bitsy spider \" + \"climbed up \" + \"the waterspout\")\n",
+        "print()\n",
+        "print(\"The itsy bitsy spider \" + \"climbed up \" + \"the waterspout\")\n",
+        "print()\n",
+        "print(\"The itsy bitsy spider\" + \" \" + \"climbed up\" + \" \" + \"the waterspout\")\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Hq6Qht1ziB0J",
+        "outputId": "18f96dd9-9afe-445e-a3a4-dc404131b0f5"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "The itsy bitsy spider climbed up the waterspout\n",
+            "\n",
+            "The itsy bitsy spider climbed up the waterspout\n",
+            "\n",
+            "The itsy bitsy spider climbed up the waterspout\n",
+            "\n",
+            "The itsy bitsy spider climbed up the waterspout\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Algorithm - Add 2 numbers**"
+      ],
+      "metadata": {
+        "id": "xxzkGtgW-uy4"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Declaring a variable\n",
+        "num1 = 5\n",
+        "num2 = 10\n",
+        "sum = num1 + num2\n",
+        "print(sum)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Fgr-RX5V-1DH",
+        "outputId": "659cd273-9d59-4984-9359-e576ae0797cb"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "15\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Arithmetic operators**"
+      ],
+      "metadata": {
+        "id": "vCH_uKxyBAA_"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(5+5) # addition\n",
+        "print(10-5) # subtraction\n",
+        "print(5*5) # multiplication\n",
+        "print(100/10) # division\n",
+        "print(13%6) # modulus (remainder operator)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "xLAXl9FwBF77",
+        "outputId": "c07dc520-cd14-462d-b8db-21929e08c65c"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "10\n",
+            "5\n",
+            "25\n",
+            "10.0\n",
+            "1\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(30+5+56+89+95885+5+6595733+123456789)\n",
+        "print(30-5-400)\n",
+        "print(30*5*67*45*6666666*345)\n",
+        "print(30/5/6/8/9/3/4/4)\n",
+        "print(30%5%6%7%234%45)\n",
+        "print(30//5//45//43//23)\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "7Bbc__lkD8Lw",
+        "outputId": "2dc0d44c-da51-4608-fbc7-bf9c932cfd5b"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "130148592\n",
+            "-375\n",
+            "1040174895982500\n",
+            "0.00028935185185185184\n",
+            "0\n",
+            "0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Variables**"
+      ],
+      "metadata": {
+        "id": "kohm2oepFvu5"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# variable names are dictated by you and can be updated to store a new value if needed\n",
+        "\n",
+        "name = \"Mohammed\"\n",
+        "print(name)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "vIDkkc8SFy99",
+        "outputId": "405f6585-6c51-4bb2-fa04-85b171dcdb26"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Mohammed\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "my_age = 33\n",
+        "your_age = 30\n",
+        "my_age = your_age\n",
+        "print(my_age)\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "6qdDSsh-Gtyw",
+        "outputId": "6dcb9f57-72a6-4143-e8a9-a20d0f866f21"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "30\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#**Variables task solution**"
+      ],
+      "metadata": {
+        "id": "P-M7xiihSiXm"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Declare my_name variable\n",
+        "myName = \"Mohammed\"\n",
+        "\n",
+        "# Print the variable\n",
+        "print(myName)\n",
+        "\n",
+        "#print type of variable\n",
+        "print(type(myName))\n",
+        "\n",
+        "#print length of string\n",
+        "print(len(myName))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "VutY0WM_N1Vl",
+        "outputId": "f20e4d7e-a8b0-4db8-8d55-0d8f6c0293b8"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Mohammed\n",
+            "<class 'str'>\n",
+            "8\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Best practice for variables**"
+      ],
+      "metadata": {
+        "id": "LZXLqbcAaXTu"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Python variables are usually written in snake_case when more than 1 word\n",
+        "# Should also be written in lower case\n",
+        "example_variable = \"snake_case\"\n",
+        "\n",
+        "# We also have camelCase varibales\n",
+        "example_variable2 = \"camelCase\"\n",
+        "\n",
+        "# If you ever encounter a variable written in all caps DO NOT update / overwrite its value\n",
+        "# This just a practice in python due to no in-built constant variables\n",
+        "PASSWORD = \"12345678\""
+      ],
+      "metadata": {
+        "id": "HRGtUcsQadiY"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Python, Input and Type Casting Task**"
+      ],
+      "metadata": {
+        "id": "SGE4D02CcSBs"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Ask the user for the prices of two items\n",
+        "item1 = input(\"Enter the price of item 1: \")\n",
+        "item2 = input(\"Enter the price of item 2: \")\n",
+        "\n",
+        "# The input() function returns strings, so we need to convert them to numbers\n",
+        "# We'll use float() since prices can include decimals\n",
+        "price1 = float(item1)\n",
+        "price2 = float(item2)\n",
+        "\n",
+        "# Calculate the total\n",
+        "total = price1 + price2\n",
+        "\n",
+        "# Display the total bill\n",
+        "print(\"Total:\", total)\n",
+        "\n",
+        "#print(f\"Total: {total:.2f}\")\n",
+        "print(f\"The total bill price is: £ {total}0\")\n",
+        "\n",
+        "my_Name = \"Mohammed\"\n",
+        "print(f\"My name is {my_Name}\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "4VWYjw7BapAP",
+        "outputId": "95bfcf68-22cf-41bb-da88-f65d20974004"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter the price of item 1: 2\n",
+            "Enter the price of item 2: 3\n",
+            "Total: 5.0\n",
+            "The total bill price is: £ 5.00\n",
+            "My name is Mohammed\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
