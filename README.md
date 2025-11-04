@@ -21,7 +21,15 @@ JustIT bootcamp projects 2025
 Workbook - [Template_YourName_DataTechWorkbook-2.md](https://github.com/user-attachments/files/23306311/Template_YourName_DataTechWorkbook-2.md)
 
 # Week 3 - SQL
-[Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md](https://github.com/user-attachments/files/23306332/Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md)
+- With SQL you would get a set a data tranfer it and make a database out of it and use differnt commands to get certain stypes of data.
+
+<img width="430" height="310" alt="Screenshot 2025-11-04 at 10 21 36" src="https://github.com/user-attachments/assets/ac9ab94e-74a4-4228-9e6d-d5fea22d3909" />
+
+<img width="531" height="590" alt="Screenshot 2025-11-04 at 10 24 28" src="https://github.com/user-attachments/assets/7bc6396c-4af6-4121-834f-ac3db1c03ea0" />
+
+<img width="609" height="632" alt="Screenshot 2025-11-04 at 10 24 52" src="https://github.com/user-attachments/assets/0cd44f2a-72f5-4c0a-aa13-80dc1e7a45d7" />
+
+Workbook - [Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md](https://github.com/user-attachments/files/23306332/Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md)
 
 # Week 4 - Azure & PowerBI
 [Data_Technician_Workbook_Week_4.md](https://github.com/user-attachments/files/23306346/Data_Technician_Workbook_Week_4-2.md)
