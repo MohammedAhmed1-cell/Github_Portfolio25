@@ -3,7 +3,7 @@ JustIT bootcamp projects 2025
 
 # Week 1 - EXCEL
 (I lost my workbook)
-- However what i did was learning about EXCEL and how it works by creating tables and differnt types of charts. Also using formulas and mathematic lines to get caluculations to get data from a table of data.
+- However what i did was learning about EXCEL and how it works by creating tables and different types of charts and pivot tables. Also using formulas and mathematic lines to get caluculations to get data from a table of data.
 
 <img width="875" height="475" alt="Screenshot 2025-11-04 at 10 10 47" src="https://github.com/user-attachments/assets/fb4c800e-59fa-43bc-9d39-60cf3c364aff" />
 
@@ -12,8 +12,13 @@ JustIT bootcamp projects 2025
 <img width="1432" height="787" alt="Screenshot 2025-11-04 at 10 14 40" src="https://github.com/user-attachments/assets/471efd0c-fff4-454e-91fe-625121bb3d01" />
 
 # Week 2 - Tableau
+- What i did on tableau was also looking at data, transfering a set of data and putting it in tableau and generating world map and looking at each type of data.
 
-[Template_YourName_DataTechWorkbook-2.md](https://github.com/user-attachments/files/23306311/Template_YourName_DataTechWorkbook-2.md)
+<img width="417" height="437" alt="Screenshot 2025-11-04 at 10 17 08" src="https://github.com/user-attachments/assets/c4259cca-1cae-405a-99b2-5328b97fdace" />
+
+<img width="505" height="292" alt="Screenshot 2025-11-04 at 10 17 49" src="https://github.com/user-attachments/assets/dc833f95-8f33-4e5c-860c-9b6863942c1e" />
+
+Workbook - [Template_YourName_DataTechWorkbook-2.md](https://github.com/user-attachments/files/23306311/Template_YourName_DataTechWorkbook-2.md)
 
 # Week 3 - SQL
 [Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md](https://github.com/user-attachments/files/23306332/Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md)
