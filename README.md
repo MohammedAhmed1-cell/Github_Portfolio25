@@ -1,4 +1,4 @@
-# Github_Portfolio25
+# Github Portfolio 2025
 JustIT Bootcamp Projects 2025
 
 # Week 1 - EXCEL
