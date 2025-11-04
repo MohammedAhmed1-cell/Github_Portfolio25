@@ -10,7 +10,7 @@ JustIT Bootcamp Projects 2025
 
 <img width="1432" height="787" alt="Screenshot 2025-11-04 at 10 14 40" src="https://github.com/user-attachments/assets/471efd0c-fff4-454e-91fe-625121bb3d01" />
 
-Workbook - [Mohammed Ahmed DataTechWorkbook week 1.md](https://github.com/user-attachments/files/23306311/Mohammed Ahmed DataTechWorkbook week 1.md)
+Workbook - https://github.com/MohammedAhmed1-cell/Github_Portfolio25/blob/bcd6fa234670db8c6ca71a4f9627fe07fff63024/Workbooks/Mohammed%20Ahmed%20DataTechWorkbook%20week%201.md
 
 # Week 2 - Tableau
 - What i did on tableau was also looking at data, transfering a set of data and putting it in tableau and generating world map and looking at each type of data.
