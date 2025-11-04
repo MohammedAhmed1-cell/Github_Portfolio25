@@ -1,5 +1,5 @@
 # Github_Portfolio25
-JustIT bootcamp projects 2025
+JustIT Bootcamp Projects 2025
 
 # Week 1 - EXCEL
 (I lost my workbook)
