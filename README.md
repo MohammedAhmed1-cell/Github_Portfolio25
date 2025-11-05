@@ -2,7 +2,29 @@
 JustIT Bootcamp Projects 2025
 
 # Week 1 - Excel
-- However what i did was learning about EXCEL and how it works by creating tables and different types of charts and pivot tables. Also using formulas and mathematic lines to get caluculations to get data from a table of data.
+📊 Excel Overview
+Microsoft Excel is a powerful spreadsheet application developed by Microsoft, used for data organization, analysis, visualization, and automation. It’s a core tool for data-driven projects, enabling users to work with numbers, text, and formulas in an intuitive grid format.
+
+💡 Key Features
+Data Management: Organize large datasets into rows and columns.
+Formulas & Functions: Perform quick calculations using built-in functions like SUM(), AVERAGE(), VLOOKUP(), and IF().
+Charts & Visualization: Create bar charts, line graphs, and pivot charts to make data insights clear and visual.
+Pivot Tables: Summarize and analyze large datasets efficiently.
+
+🧩 Common Use Cases
+Financial modeling and budgeting
+Data analysis and reporting
+Inventory tracking
+Project management dashboards
+Statistical and scientific research
+Business intelligence and KPI tracking
+
+⚙️ Integrations
+Excel works seamlessly with:
+Power BI for business analytics
+Python & R for advanced data analysis (with add-ins)
+Microsoft Power Automate for workflow automation
+GitHub (track and version control your Excel-based datasets or reports)
 
 <img width="875" height="475" alt="Screenshot 2025-11-04 at 10 10 47" src="https://github.com/user-attachments/assets/fb4c800e-59fa-43bc-9d39-60cf3c364aff" />
 
