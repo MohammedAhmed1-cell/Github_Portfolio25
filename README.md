@@ -35,7 +35,22 @@ GitHub (track and version control your Excel-based datasets or reports)
 Workbook - https://github.com/MohammedAhmed1-cell/Github_Portfolio25/blob/bcd6fa234670db8c6ca71a4f9627fe07fff63024/Workbooks/Mohammed%20Ahmed%20DataTechWorkbook%20week%201.md
 
 # Week 2 - Tableau
-- What i did on tableau was also looking at data, transfering a set of data and putting it in tableau and generating world map and looking at each type of data.
+🧭 About Tableau
+Tableau is a powerful data visualization and business intelligence (BI) tool that helps you transform raw data into interactive and shareable dashboards. It allows users to connect to a wide range of data sources, perform data cleaning and analysis, and visualize insights in an intuitive, drag-and-drop interface — without requiring extensive coding knowledge.
+
+🔍 Key Features
+Data Connectivity: Connects seamlessly to spreadsheets, databases, cloud data warehouses, and APIs.
+Interactive Dashboards: Create dynamic dashboards with filters, parameters, and tooltips.
+Visual Analytics: Use charts, maps, and trend lines to explore data patterns and outliers.
+Collaboration: Share dashboards securely via Tableau Server, Tableau Online, or Tableau Public.
+Integration: Supports integration with Python (TabPy), R, and various data pipelines.
+
+🧩 Common Use Cases
+Business performance reporting
+Sales and marketing analytics
+Financial and operational dashboards
+Predictive and statistical visualizations
+Data storytelling for stakeholders
 
 <img width="417" height="437" alt="Screenshot 2025-11-04 at 10 17 08" src="https://github.com/user-attachments/assets/c4259cca-1cae-405a-99b2-5328b97fdace" />
 
@@ -44,7 +59,15 @@ Workbook - https://github.com/MohammedAhmed1-cell/Github_Portfolio25/blob/bcd6fa
 Workbook - [Template_YourName_DataTechWorkbook-2.md](https://github.com/user-attachments/files/23306311/Template_YourName_DataTechWorkbook-2.md)
 
 # Week 3 - SQL
-- With SQL you would get a set a data tranfer it and make a database out of it and use differnt commands to get certain stypes of data.
+🧠 What is SQL?
+SQL (Structured Query Language) is a standard programming language used to manage and manipulate relational databases. It allows you to store, query, update, and analyze data efficiently.
+SQL works with databases such as MySQL, PostgreSQL, SQLite, SQL Server, and Oracle.
+
+📚 Why SQL Matters
+💾 Universal – works across most relational databases
+⚡ Efficient – optimized for large-scale data manipulation
+🧩 Integrates easily with Python, R, and data visualization tools
+📊 Essential for data analysis, web apps, and backend systems
 
 <img width="430" height="310" alt="Screenshot 2025-11-04 at 10 21 36" src="https://github.com/user-attachments/assets/ac9ab94e-74a4-4228-9e6d-d5fea22d3909" />
 
@@ -55,7 +78,21 @@ Workbook - [Template_YourName_DataTechWorkbook-2.md](https://github.com/user-att
 Workbook - [Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md](https://github.com/user-attachments/files/23306332/Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md)
 
 # Week 4 - Azure & PowerBI
-- What i did for Azure and PowerBI is a set of labs on skillable which is good and has clear instructions and demos on how to use both softwares. Furthermore by using and create databases and putting them in a livestream.
+🌩️ Microsoft Azure
+Azure is Microsoft’s cloud computing platform that provides a wide range of services for building, deploying, and managing applications and data through Microsoft-managed data centers.
+In this project, Azure can be used for:
+Data Storage & Management — hosting databases such as Azure SQL Database, Blob Storage, or Data Lake.
+Data Processing — running ETL (Extract, Transform, Load) processes with Azure Data Factory or Azure Synapse.
+Compute Services — hosting APIs, web apps, or machine learning models.
+Security & Access Control — managing credentials, permissions, and secure connections using Azure Active Directory (AAD) and Key Vault.
+
+📊 Microsoft Power BI
+Power BI is a business analytics tool by Microsoft that allows users to visualize data, share insights, and create interactive reports and dashboards.
+In this project, Power BI is used to:
+Connect to Azure data sources (e.g., Azure SQL, Blob Storage, or Synapse).
+Transform and model data for analysis.
+Build interactive dashboards to visualize KPIs, trends, and insights.
+Share reports securely through Power BI Service or embedded dashboards.
 
 <img width="498" height="334" alt="Screenshot 2025-11-04 at 10 50 44" src="https://github.com/user-attachments/assets/89b7c7b5-aeb0-4a1d-a7f7-3ccc247d818f" />
 
@@ -66,7 +103,23 @@ Workbook - [Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md](https://github.com/user-
 Workbook - [Data_Technician_Workbook_Week_4.md](https://github.com/user-attachments/files/23306346/Data_Technician_Workbook_Week_4-2.md)
 
 # Week 5 - Python
-- Learning python was fun and quite chalenging, i learnt about how to use libraries such as pandas and using differnt types of syntax to make apps but the main point was how to use it for a set of data.
+🐍 What is Python?
+Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It’s one of the most popular languages in the world and is used across many domains such as:
+🧠 Data Science & Machine Learning
+🌐 Web Development
+⚙️ Automation & Scripting
+🖥️ Software Development
+🔬 Scientific Computing
+Python’s clean syntax makes it a great choice for both beginners and experienced developers alike.
+
+🚀 Key Features
+Easy to Learn – Clean and readable syntax.
+Cross-Platform – Runs on Windows, macOS, and Linux.
+Huge Standard Library – Built-in modules for almost any task.
+Massive Ecosystem – Over 400k third-party packages on PyPI.
+Object-Oriented & Functional – Supports multiple programming paradigms.
+Strong Community Support – Active developers, open-source projects, and tutorials.
+Using the pandas library and upload csv files to get data from it by putting in the syntax.
 
 <img width="975" height="624" alt="Screenshot 2025-11-04 at 10 57 52" src="https://github.com/user-attachments/assets/aa4747e5-79e5-4fba-99d3-293824c70f3c" />
 
