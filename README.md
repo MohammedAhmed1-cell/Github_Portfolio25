@@ -1,4 +1,4 @@
-# Github Portfolio 2025
+# Github Portfolio 2025 by Mohammed Ahmed
 JustIT Bootcamp Projects 2025
 
 Welcome to the Github_Portfolio25 wiki! My name is Mohammed Ahmed, a grauate in software engineering and now learning about data and this repository will give you the run down of what I have done throughout my time in the data skills bootcamp at JustIT. 
