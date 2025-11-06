@@ -30,3 +30,12 @@ GitHub (track and version control your Excel-based datasets or reports)
 <img width="504" height="279" alt="Screenshot 2025-11-04 at 10 13 03" src="https://github.com/user-attachments/assets/e49c32f1-53bd-45b6-8ced-5221102dde2d" />
 
 <img width="1432" height="787" alt="Screenshot 2025-11-04 at 10 14 40" src="https://github.com/user-attachments/assets/471efd0c-fff4-454e-91fe-625121bb3d01" />
+
+<img width="1129" height="472" alt="Screenshot 2025-11-06 at 13 29 49" src="https://github.com/user-attachments/assets/9399f63d-7e76-49da-8965-934c22c57c5e" />
+
+<img width="1081" height="431" alt="Screenshot 2025-11-06 at 13 30 23" src="https://github.com/user-attachments/assets/ab788803-481c-4527-97d4-5d38a2c59e9c" />
+
+<img width="1389" height="529" alt="Screenshot 2025-11-06 at 13 30 54" src="https://github.com/user-attachments/assets/d05b49eb-fff8-4197-a126-44c9c1104870" />
+
+<img width="895" height="542" alt="Screenshot 2025-11-06 at 13 31 58" src="https://github.com/user-attachments/assets/0b22aa93-df5e-4cbe-ad73-e2bbb9a4bfcb" />
+
