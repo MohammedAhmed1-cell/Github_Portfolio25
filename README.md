@@ -1,6 +1,16 @@
 # Github Portfolio 2025
 JustIT Bootcamp Projects 2025
 
+Welcome to the Github_Portfolio25 wiki! My name is Mohammed Ahmed and this repository will give you the run down of what I have done throughout my time in the data skills bootcamp at JustIT. 
+
+Here is my portfolio website if you want to check it out - https://sites.google.com/view/mohammedahmedsportfolio/home
+
+Contact:
+
+Email: reazssj4@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mohammed-ahmed-1b6a34266/
+
 # Week 1 - Excel
 📊 Excel Overview
 Microsoft Excel is a powerful spreadsheet application developed by Microsoft, used for data organization, analysis, visualization, and automation. It’s a core tool for data-driven projects, enabling users to work with numbers, text, and formulas in an intuitive grid format.
