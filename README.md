@@ -44,7 +44,7 @@ GitHub (track and version control your Excel-based datasets or reports)
 
 Workbook - https://github.com/MohammedAhmed1-cell/Github_Portfolio25/blob/bcd6fa234670db8c6ca71a4f9627fe07fff63024/Workbooks/Mohammed%20Ahmed%20DataTechWorkbook%20week%201.md
 
-# Week 2 - Tableau
+# Week 2 - Tableau & PowerBI
 🧭 About Tableau
 Tableau is a powerful data visualization and business intelligence (BI) tool that helps you transform raw data into interactive and shareable dashboards. It allows users to connect to a wide range of data sources, perform data cleaning and analysis, and visualize insights in an intuitive, drag-and-drop interface — without requiring extensive coding knowledge.
 
@@ -61,6 +61,14 @@ Sales and marketing analytics
 Financial and operational dashboards
 Predictive and statistical visualizations
 Data storytelling for stakeholders
+
+📊 Microsoft Power BI
+Power BI is a business analytics tool by Microsoft that allows users to visualize data, share insights, and create interactive reports and dashboards.
+In this project, Power BI is used to:
+Connect to Azure data sources (e.g., Azure SQL, Blob Storage, or Synapse).
+Transform and model data for analysis.
+Build interactive dashboards to visualize KPIs, trends, and insights.
+Share reports securely through Power BI Service or embedded dashboards.
 
 <img width="417" height="437" alt="Screenshot 2025-11-04 at 10 17 08" src="https://github.com/user-attachments/assets/c4259cca-1cae-405a-99b2-5328b97fdace" />
 
@@ -87,7 +95,7 @@ SQL works with databases such as MySQL, PostgreSQL, SQLite, SQL Server, and Orac
 
 Workbook - [Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md](https://github.com/user-attachments/files/23306332/Mohammed_Ahmed_DataTec_Workbook_wk3_SQL.md)
 
-# Week 4 - Azure & PowerBI
+# Week 4 - Azure 
 🌩️ Microsoft Azure
 Azure is Microsoft’s cloud computing platform that provides a wide range of services for building, deploying, and managing applications and data through Microsoft-managed data centers.
 In this project, Azure can be used for:
@@ -95,14 +103,6 @@ Data Storage & Management — hosting databases such as Azure SQL Database, Blob
 Data Processing — running ETL (Extract, Transform, Load) processes with Azure Data Factory or Azure Synapse.
 Compute Services — hosting APIs, web apps, or machine learning models.
 Security & Access Control — managing credentials, permissions, and secure connections using Azure Active Directory (AAD) and Key Vault.
-
-📊 Microsoft Power BI
-Power BI is a business analytics tool by Microsoft that allows users to visualize data, share insights, and create interactive reports and dashboards.
-In this project, Power BI is used to:
-Connect to Azure data sources (e.g., Azure SQL, Blob Storage, or Synapse).
-Transform and model data for analysis.
-Build interactive dashboards to visualize KPIs, trends, and insights.
-Share reports securely through Power BI Service or embedded dashboards.
 
 <img width="498" height="334" alt="Screenshot 2025-11-04 at 10 50 44" src="https://github.com/user-attachments/assets/89b7c7b5-aeb0-4a1d-a7f7-3ccc247d818f" />
 
