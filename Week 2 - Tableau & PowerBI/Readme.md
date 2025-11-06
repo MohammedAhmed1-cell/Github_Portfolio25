@@ -20,4 +20,10 @@ Data storytelling for stakeholders
 
 <img width="505" height="292" alt="Screenshot 2025-11-04 at 10 17 49" src="https://github.com/user-attachments/assets/dc833f95-8f33-4e5c-860c-9b6863942c1e" />
 
-
+📊 Microsoft Power BI
+Power BI is a business analytics tool by Microsoft that allows users to visualize data, share insights, and create interactive reports and dashboards.
+In this project, Power BI is used to:
+Connect to Azure data sources (e.g., Azure SQL, Blob Storage, or Synapse).
+Transform and model data for analysis.
+Build interactive dashboards to visualize KPIs, trends, and insights.
+Share reports securely through Power BI Service or embedded dashboards.
