@@ -1,4 +1,4 @@
-# Week 2 - Tableau
+# Week 2 - Tableau & PowerBI
 🧭 About Tableau
 Tableau is a powerful data visualization and business intelligence (BI) tool that helps you transform raw data into interactive and shareable dashboards. It allows users to connect to a wide range of data sources, perform data cleaning and analysis, and visualize insights in an intuitive, drag-and-drop interface — without requiring extensive coding knowledge.
 
